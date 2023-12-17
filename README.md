@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Yasin
-#### Web Developer
+### Hi there 👋, my name is ## Yasin
+#### I am React Developer
 
 ![Web Developer](https://i.ibb.co/ccv4tVr/github-on-the-hunt-for-a-new-diversity-lead-developers-techworld-github-universe-png-800-450.png)
 
