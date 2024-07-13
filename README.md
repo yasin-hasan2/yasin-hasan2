@@ -9,7 +9,7 @@
 
 
 
-Skills:  REACT / JS / HTML / CSS
+Skills:  HTML / CSS / JS / REACT / ( MEARN )
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning javascript 
