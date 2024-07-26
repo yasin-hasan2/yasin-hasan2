@@ -18,8 +18,13 @@ I excel in creating smooth and efficient web applications. I have two months of 
  ## 📊 GitHub Stats:
 <!-- Add a container div with flexbox styles -->
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=yasin-hasan2&show_icons=true&theme=transparent" style="width: 100%" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin-hasan2&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" style="width: 100%"/>
+  <div style="width: 100%"> 
+      <img src="https://github-readme-stats.vercel.app/api?username=yasin-hasan2&show_icons=true&theme=transparent"  />
+  </div>
+  <div style="width: 100%"> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin-hasan2&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+  </div>
+ 
 </div>
 
 # 🔭 My currently projects
