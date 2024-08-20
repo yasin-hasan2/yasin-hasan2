@@ -8,7 +8,7 @@ Hello there! I am a Frontend and React Developer, specializing in the MERN stack
 <ul>
   <li>React/Next.js</li>
   <li>JavaScript</li>
-  <li>Tailwind CSS</li>
+  <li>Tailwind CSS/bootstrap 5</li>
   <li>MongoDB</li>
   <li>Express.js</li>
   <li>Node.js</li>
