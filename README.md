@@ -27,7 +27,7 @@ I excel in creating smooth and efficient web applications. I have two months of 
  
 </div>
 
-# 🔭 My currently projects
+<!-- # 🔭 My currently projects -->
 <!-- ## project name: DrivePulse | Online file sharing | team project
  ### ⚙️Technologies:
 - Next.js, TypeScript, tailwindcss, mongoose, ExpressJs, node.js, firebase storage, socket.io, JWT etc. 
