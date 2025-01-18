@@ -15,7 +15,7 @@
     <div>
         <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
         <h3 align="center">A passionate Front-end | React developer from Bangladesh</h3>
-    <p>Hello there! I am a Frontend and React Developer, specializing in the MERN stack.
+    <p align="center">Hello there! I am a Frontend and React Developer, specializing in the MERN stack.
 I excel at creating smooth and efficient web applications. Two months of experience working on a team project have honed my collaboration skills. I am highly motivated to learn and contribute to creating user-friendly web applications.</p>
     </div>
 </div>
