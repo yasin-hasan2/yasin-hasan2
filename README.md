@@ -13,7 +13,7 @@
     <h2>💫 About Me <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> </h2>
     <span align="left"> <img src="https://komarev.com/ghpvc/?username=yasin-hasan2&label=Profile%20views&color=0e75b6&style=flat" alt="yasinhasan" /> </span>
     <div>
-        <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+        <!-- <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
         <h3 align="center">A passionate Front-end | React developer from Bangladesh</h3>
     <p align="center">Hello there! I am a Frontend and React Developer, specializing in the MERN stack.
 I excel at creating smooth and efficient web applications. Two months of experience working on a team project have honed my collaboration skills. I am highly motivated to learn and contribute to creating user-friendly web applications.</p>
