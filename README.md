@@ -1,7 +1,7 @@
 <div align="center">
     <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=8000&color=FFC20E&center=true&vCenter=true&width=550&lines=..Hey👋,+I'm+Yasin+Hasan+..;" alt="Typing SVG"/></h1>
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
-    <p align="center"> <a href="https://github.com/shakilahmedatik/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasin-hasan2&row=1&column=6&theme=onedark" alt="shakilahmedatik" /></a> </p>
+    <p align="center"> <a href="https://github.com/yasin-hasan2/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasin-hasan2&row=1&column=6&theme=onedark" alt="yasin-hasan2" /></a> </p>
 </div>
 
 <!--- <div>
@@ -15,7 +15,7 @@
     <div>
         <!-- <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
         <h3 align="center">A passionate Front-end | React developer from Bangladesh</h3>
-    <p align="center">Hello there! I am a Frontend and React Developer, specializing in the MERN stack.
+    <p align="center">Hello there! I am a front-end and React Developer specializing in the MERN stack.
 I excel at creating smooth and efficient web applications. Two months of experience working on a team project have honed my collaboration skills. I am highly motivated to learn and contribute to creating user-friendly web applications.</p>
     </div>
 </div>
@@ -40,11 +40,20 @@ I excel at creating smooth and efficient web applications. Two months of experie
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </div>
 
-
+ <!--- # 🔭 My currently projects 
+ ## project name: DrivePulse | Online file sharing | team project
+ ### ⚙️Technologies:
+- Next.js, TypeScript, tailwindcss, mongoose, ExpressJs, node.js, firebase storage, socket.io, JWT etc. 
+### 📝Description:
+- This is a online file  sharing website and user friendly UI design. Authentication user can upload his/her file and share this file in real-time. User can create folder and upload any file inside this folder and this is a nasted route like google drive. User can add conversation and collaborate with real-time chat.
+### 👇Links:
+- [client github link](https://github.com/Binary-Masters/DrivePulse-Client)
+- [server github link](https://github.com/Binary-Masters/DrivePulse-Server)
+- [live link](https://drive-pulse-client.vercel.app/) -->
 
 <h2>Contact Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> </h2>
 
-<p align="left">  
+<div align="center">  
     <a href="https://www.facebook.com/aornil.mahmoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shakil.atik15" height="30" width="40" /></a>
     <a href="https://www.linkedin.com/in/yasin-hasan-05a16425a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakilahmedatik" height="30" width="40" /></a>
     
@@ -58,7 +67,7 @@ I excel at creating smooth and efficient web applications. Two months of experie
 <a href="https://www.behance.net/shakilahmedatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
 <a href="https://medium.com/@shakilatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shakilatik" height="30" width="40" /></a>  
 <a href="https://www.youtube.com/c/hexacode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hexacode" height="30" width="40" /></a>   -->
-</p>  
+</div>  
 
 
 
@@ -82,16 +91,7 @@ I excel at creating smooth and efficient web applications. Two months of experie
 
 
 
-<!-- # 🔭 My currently projects -->
-<!-- ## project name: DrivePulse | Online file sharing | team project
- ### ⚙️Technologies:
-- Next.js, TypeScript, tailwindcss, mongoose, ExpressJs, node.js, firebase storage, socket.io, JWT etc. 
-### 📝Description:
-- This is a online file  sharing website and user friendly UI design. Authentication user can upload his/her file and share this file in real-time. User can create folder and upload any file inside this folder and this is a nasted route like google drive. User can add conversation and collaborate with real-time chat.
-### 👇Links:
-- [client github link](https://github.com/Binary-Masters/DrivePulse-Client)
-- [server github link](https://github.com/Binary-Masters/DrivePulse-Server)
-- [live link](https://drive-pulse-client.vercel.app/) -->
+
 
 
 <h2>Support Me <img src = "https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
