@@ -1,5 +1,5 @@
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=8000&color=FFC20E&center=true&vCenter=true&width=550&lines=..Hey👋,+I'm+Yasin+..;" alt="Typing SVG"/></h1>
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=8000&color=FFC20E&center=true&vCenter=true&width=550&lines=..Hi👋,+I'm+Yasin+..;" alt="Typing SVG"/></h1>
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
     <h2> MERN stack Developer </h2>
 <!--     <p align="center"> <a href="https://github.com/yasin-hasan2/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasin-hasan2&row=1&column=6&theme=onedark" alt="yasin-hasan2" /></a> </p> -->
