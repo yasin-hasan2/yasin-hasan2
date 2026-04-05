@@ -74,7 +74,7 @@ I excel at creating smooth and efficient web applications. Two months of experie
 
 
 
-<div >
+<!-- <div >
 <h2  class="section-heading"> Github Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40px" height="40px"> </h2>
  <table align="center" width="100%" height="100%" >
     <tr>
@@ -90,7 +90,7 @@ I excel at creating smooth and efficient web applications. Two months of experie
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasin-hasan2&theme=github_dark" alt="Zane's GitHub Stats"/></td>
     </tr>
  </table>
-</div>
+</div> --->
 
 
 
