@@ -1,13 +1,25 @@
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=8000&color=FFC20E&center=true&vCenter=true&width=550&lines=..Hi👋,+I'm+Yasin+..;" alt="Typing SVG"/></h1>
-    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
+    <!-- <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=8000&color=FFC20E&center=true&vCenter=true&width=550&lines=..Hi👋,+I'm+Yasin+..;" alt="Typing SVG"/></h1>
+    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
   <!--  <h2> MERN stack Developer </h2> -->
 <!--     <p align="center"> <a href="https://github.com/yasin-hasan2/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasin-hasan2&row=1&column=6&theme=onedark" alt="yasin-hasan2" /></a> </p> -->
 </div>
 
-<!--- <div>
-<img src="https://i.ibb.co/vL5Yjq5/Add-a-subheading.png" alt="cover" />
-</div> --->
+ <div>
+<img 
+  src="https://res.cloudinary.com/dybnirysc/image/upload/v1775378625/Bruno_Pixels_skjquj.gif" 
+  alt="cover" 
+  style="
+    display: block; 
+    height: calc(100% - 50px); 
+    width: auto; 
+    margin: 2px; 
+    object-fit: cover; 
+    border: 2px solid #000; 
+    border-radius: 8px;
+  "
+/>
+</div> 
    <!--- <h1 align="center">Hi  I'm Yasin Hasan</h1> --->
 
 <div align="center">
@@ -97,7 +109,7 @@ I excel at creating smooth and efficient web applications. Two months of experie
 
 
 
-<h2>Support Me <img src = "https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
+<!---<h2>Support Me <img src = "https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 <p><a href="https://buymeacoffee.com/yasinalhasan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="atik" /></a></p>
 
 
