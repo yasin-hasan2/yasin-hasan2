@@ -43,10 +43,11 @@ I excel at creating smooth and efficient web applications. Two months of experie
 
 | Category | Technologies |
 |----------|--------------|
-| 💻 **Languages** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
-| ⚛️ **Frameworks & Libraries** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)  ![Shadcn UI](https://img.shields.io/badge/shadcn/ui-black?style=for-the-badge&logo=shadcnui&logoColor=white)  ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) |
-| 🗄️ **Database & Backend** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![NeonDB](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neondatabase&logoColor=black)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  ![Better Auth](https://img.shields.io/badge/BetterAuth-000000?style=for-the-badge&logo=auth0&logoColor=white) |
-| 🛠️ **Tools & Platforms** | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![NPM](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
+| 💻 **Languages** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| ⚛️ **Frontend Tech & Libraries/Frameworks** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Shadcn UI](https://img.shields.io/badge/shadcn/ui-black?style=for-the-badge&logo=shadcnui&logoColor=white) |
+| 🗄️ **Backend, Database & ORM** | ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NeonDB](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neondatabase&logoColor=black) ![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Better Auth](https://img.shields.io/badge/BetterAuth-000000?style=for-the-badge&logo=auth0&logoColor=white) |
+| 🛠️ **Tools & Platforms** | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
+
 
 
 
@@ -62,7 +63,101 @@ I excel at creating smooth and efficient web applications. Two months of experie
 - [server github link](https://github.com/Binary-Masters/DrivePulse-Server)
 - [live link](https://drive-pulse-client.vercel.app/) -->
 
-<h2>Contact Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> </h2>
+
+<!-- <h2>
+  📚 Current Learning
+</h2>
+
+| Category | Currently Learning |
+|----------|--------------------|
+| 🚀 **Tech Learning** | ![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Better Auth](https://img.shields.io/badge/BetterAuth-000000?style=for-the-badge&logo=auth0&logoColor=white) |
+| 🎓 **Academic Learning** | B.Sc (Hons.) in CSE • Structured Programming • Linear Algebra • Data Structures & Algorithms | -->
+
+<h2>📚 Current Learning</h2>
+
+<table>
+<tr>
+
+<td width="65%">
+
+### Tech Learning
+Currently focusing on expanding my full stack development skills by exploring modern web technologies and improving real-world application architecture. My current learning areas include building scalable applications with **Next.js**, strengthening database design with **PostgreSQL** and **Prisma**, and improving authentication and security practices using **Better Auth**.
+
+### Academic Learning
+Alongside technical growth, I am continuing my **B.Sc (Hons.) in Computer Science & Engineering (CSE)** studies and strengthening core computer science fundamentals including programming concepts, mathematical foundations, problem solving, and software development principles.
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280"/>
+
+</td>
+
+</tr>
+</table>
+
+
+
+<h2>
+  Contact Me
+  <img src="https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
+  width="40px"
+  height="40px">
+</h2>
+
+<table>
+<tr>
+
+<td width="55%">
+
+### Let's Connect
+
+I enjoy connecting with developers, sharing ideas, collaborating on meaningful projects, and learning from the community.
+
+Whether you want to discuss technology, opportunities, or simply say hello, feel free to reach out.
+
+</td>
+
+<td width="45%" align="center">
+
+<a href="https://www.linkedin.com/in/yasin-hasan-05a16425a/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+
+
+<a href="https://twitter.com/yasin_hasan2">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+
+
+<a href="https://dev.to/your-dev-username">
+<img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+</a>
+
+
+
+<a href="https://instagram.com/yaeen_al_hassan24">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+
+
+
+<!--- <h2>Contact Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> </h2>
 
 <div align="center">  
     <a href="https://www.facebook.com/Yasin.Al.Hasan02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shakil.atik15" height="30" width="40" /></a>
@@ -70,7 +165,7 @@ I excel at creating smooth and efficient web applications. Two months of experie
     <a href="https://twitter.com/yasin_hasan2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasin_hasan2" height="30" width="40" /></a>
 <a href="https://instagram.com/yaeen_al_hassan24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaeen_al_hassan24" height="30" width="40" /></a>
     
-<!--- <a href="https://dev.to/shakilahmedatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
+ <a href="https://dev.to/shakilahmedatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
 <a href="https://twitter.com/shakilahmedatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
   
 <a href="https://stackoverflow.com/users/11409373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11409373" height="30" width="40" /></a>  
@@ -79,8 +174,8 @@ I excel at creating smooth and efficient web applications. Two months of experie
 <a href="https://dribbble.com/shakilahmedatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
 <a href="https://www.behance.net/shakilahmedatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
 <a href="https://medium.com/@shakilatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shakilatik" height="30" width="40" /></a>  
-<a href="https://www.youtube.com/c/hexacode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hexacode" height="30" width="40" /></a> --->
-</div>  
+<a href="https://www.youtube.com/c/hexacode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hexacode" height="30" width="40" /></a> 
+</div>  --->
 
 
 
