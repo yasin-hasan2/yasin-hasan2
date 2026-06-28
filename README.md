@@ -23,15 +23,28 @@
    <!--- <h1 align="center">Hi  I'm Yasin Hasan</h1> --->
 
 <div align="center">
-    <h2> Hey there! 👋 I'm Yasin Al Hasan <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> </h2>
-    <span align="left"> <img src="https://komarev.com/ghpvc/?username=yasin-hasan2&label=Profile%20views&color=0e75b6&style=flat" alt="yasinhasan" /> </span>
-    <div>
-        <!-- <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
-        <h3 align="center">A passionate Front-end | React developer from Bangladesh</h3>
-    <p align="center">Hello there! I am a front-end and React Developer specializing in the MERN stack.
-I excel at creating smooth and efficient web applications. Two months of experience working on a team project have honed my collaboration skills. I am highly motivated to learn and contribute to creating user-friendly web applications.</p>
-    </div>
+
+<h1>
+  Hey there! 👋 I'm Yasin Al Hasan
+  <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
+  width="40px"
+  height="40px">
+</h1>
+
+<img src="https://komarev.com/ghpvc/?username=yasin-hasan2&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+<h3>
+Full Stack Developer • MERN Stack • Next.js Enthusiast
+</h3>
+
+<p width="80%">
+I am a passionate developer from Bangladesh focused on building modern, responsive, and scalable web applications.
+My experience primarily revolves around the <strong>MERN stack</strong>, while continuously expanding into technologies like <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>PostgreSQL</strong>, and <strong>Prisma</strong>.
+I enjoy transforming ideas into real products, creating intuitive user experiences, and writing clean, maintainable code. Alongside development, I continuously explore new technologies and improve my problem-solving and software engineering skills.
+</p>
+
 </div>
+
 
 
 
