@@ -7,7 +7,7 @@
 
  <div>
 <img 
-  src="https://res.cloudinary.com/dybnirysc/image/upload/v1775378625/Bruno_Pixels_skjquj.gif" 
+  src="https://res.cloudinary.com/dybnirysc/image/upload/v1790161380/tumblr_owi25v6uAo1r4gsiio1_1280_gif1000300in2024_PixelartdesignPixelartbackgroundPix-ezgif.com-crop_znmpqc.gif" 
   alt="cover" 
   style="
     display: block; 
